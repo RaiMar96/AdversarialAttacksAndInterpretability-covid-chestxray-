@@ -8,9 +8,8 @@ The repository has the following structure :
 ## Dependencies
 The project has been implemented in python on Jupyter environment (Google Colab platform).
 For a correct execution it is necessary to install the following modules:
-- **PyThorc**
+- **PyTorch**
 - **Captum**
 
 ## Dataset 
 The Dataset used is available on gitHub at following link [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
-
